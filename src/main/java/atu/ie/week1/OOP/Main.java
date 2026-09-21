@@ -8,6 +8,8 @@ public class Main {
 
         Book firstbook = new Book();
 
+        firstbook.displayDetails();
+        firstbook.borrowBook();
         firstbook.title = "Dune";
         firstbook.author = "Frank";
         firstbook.pageCount = 412;
@@ -25,6 +27,6 @@ public class Main {
         secondbook.available = true;
 
         secondbook.displayDetails();
-        secondbook.borrowBook();
+
     }
 }
