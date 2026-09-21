@@ -4,6 +4,6 @@ package atu.ie.week1.OOP;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello oop");
+        System.out.println("hello oop 1");
     }
 }
