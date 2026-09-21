@@ -25,5 +25,6 @@ public class Main {
         secondbook.available = true;
 
         secondbook.displayDetails();
+        secondbook.borrowBook();
     }
 }
