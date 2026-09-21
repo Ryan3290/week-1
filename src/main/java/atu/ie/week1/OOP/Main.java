@@ -5,5 +5,7 @@ package atu.ie.week1.OOP;
 public class Main {
     public static void main(String[] args) {
         System.out.println("hello oop 1");
+
+
     }
 }
